@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"conver",
+				"conversion-lag"
+			],
+			[
+				"base",
+				"base_figure_path"
+			],
+			[
+				"bas",
+				"base_figure_path"
+			],
+			[
+				"lag",
+				"lag_table_settings"
+			],
+			[
+				"a",
+				"aalen"
+			],
+			[
+				"la",
+				"lag_table_settings"
+			],
+			[
+				"sum",
+				"summary"
+			],
+			[
+				"_pl",
+				"_plot_comparison_heatmap"
+			],
+			[
+				"te",
+				"test_path"
+			],
+			[
+				"plo",
+				"plot_changing_lag_prediction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"load_",
+				"load_model_local"
+			],
+			[
+				"ex",
+				"table_name_extension"
+			],
+			[
+				"cha",
+				"channel_path"
+			],
+			[
+				"pred",
+				"predicion_col"
+			],
+			[
+				"ch",
+				"channel_path"
+			],
+			[
+				"chan",
+				"channel"
+			],
+			[
+				"chn",
+				"channels"
+			],
+			[
+				"setting",
+				"updated_settings"
+			],
+			[
+				"table",
+				"table_name_extension"
+			],
+			[
+				"up",
+				"update_settings"
+			],
+			[
+				"train",
+				"train_df_path"
+			],
+			[
+				"tr",
+				"train_df_"
+			],
+			[
+				"load",
+				"load_train_df_local"
+			],
+			[
+				"loaf",
+				"load_train_df_local"
+			],
+			[
+				"sa",
+				"save_model_local"
+			],
+			[
+				"mo",
+				"model_type"
+			],
+			[
+				"save",
+				"save_training_data_local"
+			],
+			[
+				"po",
+				"poly_fil"
+			],
+			[
+				"model",
+				"model_path"
+			],
+			[
+				"loa",
+				"save_model_local"
+			],
+			[
+				"tra",
+				"training_data_path"
+			],
+			[
+				"trra",
+				"traing_data_folder"
+			],
+			[
+				"de",
+				"default_settings"
+			],
+			[
+				"max",
+				"max_lag"
+			],
+			[
+				"ta",
+				"target_lag"
+			],
+			[
+				"lo",
+				"load_model_local"
+			],
+			[
+				"mode",
+				"model_type"
+			],
+			[
+				"cu",
+				"cumulative_enquiry_count"
+			],
+			[
+				"u",
+				"_update_model_formula"
+			],
+			[
+				"cren",
+				"credentials_file"
+			],
+			[
+				"carwow_yel",
+				"carwow_yellow_hex"
+			],
+			[
+				"carwow_red",
+				"carwow_red_hex"
+			],
+			[
+				"carwow_gre",
+				"carwow_green_hex"
+			],
+			[
+				"carow_blue",
+				"carwow_blue_hex"
+			],
+			[
+				"carw",
+				"carwow_shades_of_grey_hexs"
+			],
+			[
+				"ca",
+				"carwow_blue_hex"
+			],
+			[
+				"font",
+				"fontsize"
+			],
+			[
+				"st",
+				"stages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pep",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"snipp\t",
+				"Snippet: CDATA"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"prefe",
+				"Preferences: Key Bindings"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"al\t",
+				"AlignTab"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"su",
+				"Sublimerge: Compare to Snapshot"
+			],
+			[
+				"subl",
+				"Sublimerge: Compare to Snapshot"
+			],
+			[
+				"cl",
+				"Diffy Cleanup"
+			],
+			[
+				"clean",
+				"Diffy Cleanup"
+			],
+			[
+				"toggle sc",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"sync",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"fix",
+				"Python Fix Imports"
+			],
+			[
+				"doc",
+				"AutoDocstring: Current"
+			],
+			[
+				"DOC",
+				"AutoDocstring: Current"
+			],
+			[
+				"PEP",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"toc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"imp",
+				"Python Fix Imports"
+			],
+			[
+				"im",
+				"Python Fix Imports"
+			],
+			[
+				"pe",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"impo",
+				"Python Fix Imports"
+			],
+			[
+				"alig\t",
+				"AlignTab"
+			],
+			[
+				"latexto",
+				"LaTeXTools: Clear cache"
+			],
+			[
+				"bui",
+				"Build: Cancel"
+			],
+			[
+				"bu",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"latexTool",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"al",
+				"AlignTab"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"all\t",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"asc",
+				"ASCII Decorator: Font Selector"
+			],
+			[
+				"as",
+				"ASCII Decorator: Font Selector"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insert",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"rmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 325.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"dir(sublime)",
+			"dit(sublime)",
+			"sublime.logging(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"turn_on_debug_mode",
+			"import gspread",
+			"view.sel()[0].a",
+			"view.sel()[0]",
+			"list(view.sel())",
+			"view.sel()",
+			"view",
+			"sublime.windows()[5].views()[1].run_command('simon_find')",
+			"view.settings().get('is_widget')",
+			"view.settings()",
+			"view.show_popup('lol')",
+			"view.show_popup('lol)",
+			"view.show_popup()",
+			"dir(view)",
+			"view.run_command('simon_find')",
+			"view.run_command('toggle_in_selection')",
+			"t",
+			"t = [x for x in r]",
+			"len(r)",
+			"r = view.sel()",
+			"r[0]",
+			"len(r)",
+			"r",
+			"r = view.sel()",
+			"x = next(r)",
+			"r[0]",
+			"len(r)",
+			"dir(r)",
+			"r",
+			"r = view.sel()",
+			"view.sel()",
+			"view.sel().empty()",
+			"for r in view.sel(): print(r);",
+			"for r in view.sel(): print(r)",
+			"for r in view.sel():",
+			"r = next(view.sel())",
+			"view.sel()",
+			"print(2)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/snippets"
+	],
+	"file_history":
+	[
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/__init__.py",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/simon-find.py",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/encoder.py",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/snippets/dq-sql.sublime-snippet",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/Main.sublime-menu",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/unencoder.py",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins/*",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/simonward-jones/Documents/carwow-projects/ad-hoc/email_consent.md",
+		"/Users/simonward-jones/Documents/carwow-projects/learning-carwow/learning_data.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/quotes_site/app/models/offer.rb",
+		"/Users/simonward-jones/Documents/carwow-projects/quotes_site/app/controllers/offers_controller.rb",
+		"/Users/simonward-jones/Documents/carwow-projects/quotes_site/app/models/queries/catch_up_messages.rb",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/demo.sublime-snippet",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/select-all.sublime-snippet",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414.info",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/Package Control.user-ca-bundle",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/simonward-jones/Documents/carwow-projects/learning-carwow/messaging.sql",
+		"/Users/simonward-jones/Desktop/email_consent.md",
+		"/Users/simonward-jones/Documents/personal/mapping-project/python mapping/Data/SW-J flight travel - SW-J flight travel.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/README.md",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/Makefile",
+		"/Users/simonward-jones/Documents/carwow-projects/segmentation/sql/de-purchasers.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/segmentation/sql/de-nonpurchasers.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/segmentation/sql/uk-nonpurchasers.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/segmentation/sql/uk-purchasers.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/segmentation/sql/email_lists.sql",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Cache/Sublimerge.vcs-cache",
+		"/Users/simonward-jones/Downloads/SW-J flight travel - SW-J flight travel.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/conversion_lag/model_accuracy.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/requirements.txt",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/conversion_lag/models.py",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/conversion_lag/model_build.py",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/conversion_lag/errors.py",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/conversion_lag/model_accuracy.py",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/notebooks/usr/local/lib/python2.7/site-packages/lifelines",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/figures/overall_summay_day_7.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/sql/error_with_hazard_interpolations.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/response.py",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/sql/training_data.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/data/train_df_purchase_1897_2018-12-01.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/sql/error_with_hazard.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/sql/changing_error_plot.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/notebooks/deleteme.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/model_error_maths.log",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/maths/model_error_maths.tex",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/figures/model_error_maths.png",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/model_error_maths.tex",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/model_error_maths.aux",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/model_error_maths.pdf",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/model_error_maths.png",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/b.tex",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Cache/LaTeXTools/internal/preview_math/e3d8682275d7247a588ee052f2bcc944.png.err",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/conversion_lag/core.py",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/README.txt",
+		"/Users/simonward-jones/Documents/carwow-projects/utils/utils/google.py",
+		"/usr/local/lib/python2.7/site-packages/googleapiclient/discovery.py",
+		"/Users/simoward-joes/.google_sheets_auth",
+		"/Users/simoward-joes/.google_sheets_auth/credentials.json",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/google/sheets.py",
+		"/Users/simonward-jones/.bash_profile",
+		"/Users/simonward-jones/Documents/carwow-projects/utils/token2.json",
+		"/usr/local/lib/python2.7/site-packages/oauth2client/client.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/conversion_lag/lag_parameters.py",
+		"/Users/simonward-jones/Documents/carwow-projects/abtest_site/venv/lib/python2.7/site-packages/dsutils/conversion_lag/models.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/database/core.py",
+		"/Users/simonward-jones/Documents/carwow-projects/utils/utils/__init__.py",
+		"/Users/simonward-jones/Documents/carwow-projects/abtest_site/venv/lib/python2.7/site-packages/dsutils/marketing/ppc/bidding/troas/models/enquiry.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/aws/s3.py",
+		"/Users/simonward-jones/Documents/carwow-projects/abtest_site/venv/lib/python2.7/site-packages/dsutils/conversion_lag/core.py",
+		"/usr/local/lib/python2.7/site-package",
+		"/Users/simonward-jones/usr/local/lib/python2.7/site-packages/lifelines",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/data/sessions_channel_breakdown.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/data/ppc_multiple_breakdowns.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/sql/multi_session_user_acquisition_channel.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/data/sessions_channel_breakdown_v2.csv",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/sql/ppc_multiple_breakdowns.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/attribution/etl_validators.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/attribution/core.py",
+		"/Users/simonward-jones/Documents/carwow-projects/test/simon.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dependent-dropdowns/example.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/sql_api/core.py",
+		"/Users/simonward-jones/Documents/carwow-projects/utils/utils/plotting.py",
+		"/Users/simonward-jones/Documents/carwow-projects/utils/utils/color.py",
+		"/Users/simonward-jones/Documents/carwow-projects/utils/setup.py",
+		"/usr/local/lib/python2.7/site-packages/matplotlib/axis.py",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/sql/ppc_multiple_breakdowns_with_single_date_user.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/sql/ppc_is_user_breakdown.sql",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/utils/color.py",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/README.md",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/utils/__init__.py",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/utils/plotting.py",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/figures/session_channel_breakdown.png",
+		"/Users/simonward-jones/.matplotlib",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/notebooks/test.svg",
+		"/private/var/folders/lm/9f9w_26n4tjfrwbmtj71dfy80000gn/T/41.html",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/file",
+		"/usr/local/lib/python2.7/site-packages/matplotlib/font_manager.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/attribution_v2/etl_tasks.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/airflow_home/dags/attribution_marketing__uk.py",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/sessions.txt",
+		"/Users/simonward-jones/Documents/carwow-projects/ppc-analysis/sessions_ordered.txt",
+		"/Users/simonward-jones/Documents/carwow-projects/conversion-lag/requirements.txt",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/conversion_lag/etl_tasks.py",
+		"/usr/local/lib/python2.7/site-packages/lifelines/statistics.py",
+		"/usr/local/lib/python2.7/site-packages/lifelines/__init__.py",
+		"/usr/local/lib/python2.7/site-packages/lifelines/fitters/kaplan_meier_fitter.py",
+		"/usr/local/lib/python2.7/site-packages/lifelines/utils/__init__.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/manipulation/dataframes.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/database/resources/parameters.py",
+		"/Users/simonward-jones/.carwow_profile.sh",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/.example_bash_profile",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/enhanced_schema_v2/etl_tasks.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/airflow_home/dags/email_sessions__uk.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/dsutils/email_sessions/etl_tasks.py",
+		"/Users/simonward-jones/Documents/carwow-projects/learning-carwow/tables_v_simon.py",
+		"/Users/simonward-jones/Documents/personal/learn-airflow/dags/tutorial.py",
+		"/Users/simonward-jones/Documents/personal/learn-airflow/README.md",
+		"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+		"/Users/simonward-jones/Documents/personal/learn-airflow/tutorial.py",
+		"/Users/simonward-jones/Documents/carwow-projects/dsutils/venv/lib/python2.7/site-packages/airflow/configuration.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 108.0
+	},
+	"output.figlet_preview":
+	{
+		"height": 232.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 468.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 382.0
+	},
+	"pinned_build_system": "",
+	"project": "simon_plugins.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

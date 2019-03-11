@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "Simon's Cookies",
+        "mnemonic": "S",
+        "id": "simon",
+        "children":
+        [
+            { "command": "simon_find", "caption": "Simon find", "mnemonic": "f" },
+            { "command": "encoder", "caption": "Encode", "mnemonic": "O"},
+            { "command": "un_encoder", "caption": "Un-encode","platfor": "OSX"},
+            { "command": "to_datetime", "caption": "Timestamp -> Datetime"},
+            { "command": "to_timestamp", "caption": "Datetime -> Timestamp"},
+            { "command": "insert_datetime", "caption": "Insert current datetime"},
+            { "command": "exec","caption": "Open Plugins folder" , "args": {"shell_cmd": "subl -n \"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins\""} }
+        ]
+    }
+]

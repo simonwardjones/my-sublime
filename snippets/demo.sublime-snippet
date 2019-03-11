@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+Hello, ${1:this} is a sublime-snippet ${2:snippet}.
+
+Edit this 
+	by going sublime text 
+	then preferences 
+	then Browse Packages
+	then to Simon's plugins
+	then to snippets
+	then demo.sublime-snippet
+
+end$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>simon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description> demo description </description>
+</snippet>

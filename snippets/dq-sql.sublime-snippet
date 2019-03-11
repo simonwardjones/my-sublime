@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[https://ds-sql.herokuapp.com/query-${1:xxxx}
+]]>
+</content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ds-sql</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description> Url for query id </description>
+</snippet>
