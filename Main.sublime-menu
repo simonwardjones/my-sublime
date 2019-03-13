@@ -11,7 +11,7 @@
             { "command": "to_datetime", "caption": "Timestamp -> Datetime"},
             { "command": "to_timestamp", "caption": "Datetime -> Timestamp"},
             { "command": "insert_datetime", "caption": "Insert current datetime"},
-            { "command": "exec","caption": "Open Plugins folder" , "args": {"shell_cmd": "subl -n \"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/Simon's plugins\""} }
+            { "command": "exec","caption": "Open Plugins folder" , "args": {"shell_cmd": "subl -n \"/Users/simonward-jones/Library/Application Support/Sublime Text 3/Packages/my-sublime\""} }
         ]
     }
 ]
